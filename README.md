@@ -16,17 +16,19 @@
   </h3>
 </div>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9b0f4b53-25ad-4c4d-98f7-43dfa7bbe2ad/deploy-status)](https://app.netlify.com/sites/edie-homepage-7509e4/deploys)
+
 ## Overview
 
 Visit [https://edie-homepage-7509e4.netlify.app/](https://edie-homepage-7509e4.netlify.app/).
 
 Desktop
 
-![screenshot](./screenshot-desktop.png)
+![screenshot](./doc-images/screenshot-desktop.png)
 
 Mobile
 
-![screenshot](./screenshot-mobile.png)
+![screenshot](./doc-images/screenshot-mobile.png)
 
 ## Features
 
